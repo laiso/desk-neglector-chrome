@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "desk neglector",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Release all open cases at desk.com/agent.",
+    "description": "The description of the application"
+  }
+}

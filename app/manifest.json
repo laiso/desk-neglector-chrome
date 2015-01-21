@@ -1,6 +1,6 @@
 {
     "name": "Desk Neglector",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "manifest_version": 2,
     "description": "Close all open cases in desk.com/agent",
     "icons": {
@@ -18,7 +18,7 @@
     "content_scripts": [
         {
             "matches": [
-                "https://ubiregi.desk.com/agent"
+                "https://*.desk.com/agent"
             ],
             "css": [
                 "styles/main.css"
